@@ -1,3 +1,4 @@
+![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrltzekgshzocy54061p.jpeg)
 <h1 align="center">Hi 👋, I'm Prasad Parjane</h1>
 <h3 align="center">A Passionate Bilingual Developer from SCOE, India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*JFgm1wgpsbs9FKJn.gif">
