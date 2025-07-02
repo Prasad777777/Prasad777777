@@ -22,7 +22,8 @@
 # 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Prasad777777&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<hr style="border: none; height: 4px; background: linear-gradient(to right, #00c6ff, #0072ff); border-radius: 2px;" />
+<hr style="border: none; height: 4px; background: linear-gradient(to right, #56ab2f, #a8e063); border-radius: 2px;" />
+
 
 ---
 <div align="center">
