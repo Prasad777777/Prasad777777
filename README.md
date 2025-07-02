@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 
-🎓 I'm a final-year Computer Engineering student at Dokuz Eylul University.  
-🤖 I'm currently working on projects related to Large Language Models (LLMs), AI Agents, and Data Science.  
+🎓 I'm a final-year Computer Engineering student Sanjivani College of Engineering Kopargaon, India.  
+🤖 I'm currently an Data Science intern at Celebal Technologies, Pune India, .  
 📊 I have a strong interest in building intelligent systems that can analyze data, learn from it, and make decisions.  
 🚀 I enjoy participating in bootcamps, contributing to open-source projects, and exploring cutting-edge AI technologies.  
 🌱 I'm always looking to learn, collaborate, and grow in the fields of artificial intelligence and data-driven development.
