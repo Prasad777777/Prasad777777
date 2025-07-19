@@ -34,6 +34,15 @@
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
+## 📈 GitHub Stats
+
+![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad777777&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad777777&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prasad777777&theme=tokyonight&hide_border=false)
+
+
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
